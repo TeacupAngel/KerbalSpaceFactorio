@@ -1,2 +1,11 @@
 # KerbalSpaceFactorio
-Build rockets in factorio, launch them in KSP to send the research back down to Nauvis as space science packs
+
+* Build rocketparts in factorio
+
+* Get funds in KSP
+
+* Launch missions in KSP
+
+* Return science packs to factorio
+
+* *Profit
