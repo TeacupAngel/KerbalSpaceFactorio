@@ -30,7 +30,7 @@ All credit for making the KSP side of this mod goes to /u/dragon-storyteller
 
 Build rocketparts in factorio and place them in put-chests to send them to the master server.
 
-Open KSP and build a rocket. There should be a white gear you can press to retrieve the parts from master as funds and return your science points as space science packs.
+Open KSP and build a rocket. There should be a white gear you can press to access the mod menu. The cost of you ship is determined by funds, just like carreer mode. What would normall be 100 funds is now 1 low density structure.
 
 Use the get-chest to import space science packs in factorio.
 
