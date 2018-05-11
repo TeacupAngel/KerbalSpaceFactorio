@@ -1,5 +1,7 @@
 # KerbalSpaceFactorio
 
+# This project is superseeded by https://github.com/Rahjital/XenoIndustry
+
 To download the latest release, visit [github releases](https://github.com/Danielv123/KerbalSpaceFactorio/releases)
 
 * Build rocketparts in factorio
